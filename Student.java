@@ -26,6 +26,15 @@ class Emp extends Address {
 		this.name = name;
 
 	}
+	
+	
+	public void  hello()
+	{
+		System.out.println("hello");s
+	}
+	
+	
+	
 
 	public void dis() {
 		System.out.println(name);
