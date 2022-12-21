@@ -30,7 +30,7 @@ class Emp extends Address {
 	
 	public void  hello()
 	{
-		System.out.println("hello");s
+		System.out.println("hello");
 	}
 	
 	
@@ -46,5 +46,14 @@ public class Student {
 	public static void main(String args[]) {
 		Emp add = new Emp("kanpur", "up", "india", "Anuj");
 		add.dis();
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 }
