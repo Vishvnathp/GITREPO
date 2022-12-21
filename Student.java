@@ -22,6 +22,12 @@ class Emp extends Address {
 	public Emp(String city, String state, String con, String name)
 
 	{
+		
+		
+		
+		
+		
+		
 		super(city, state, con);
 		this.name = name;
 
